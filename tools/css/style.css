@@ -4,7 +4,7 @@
 /* VARIABLES */
 :root {
     --c-dark: #212529;
-    --c-brand: #9F2B68;
+    --c-brand: #996515;  
     --c-brand-light: #6970dd;
     --c-brand-rgb: 78, 87, 212;
     --c-body: #727272;
@@ -109,4 +109,5 @@ img {
 
     color: #996515
 /*         #F2D2BD */
+/*     #9F2B68 */
 }
