@@ -6,7 +6,7 @@ const path = require('path');
 app.use(express.static(path.join(__dirname, '/')));
 
 // Start the server
-const port = 8080;
+const port = 9000;
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
