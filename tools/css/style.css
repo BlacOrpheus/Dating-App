@@ -95,7 +95,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial1.jpg);
     background-position: center;
     background-size: cover;
 }
