@@ -4,7 +4,7 @@
 /* VARIABLES */
 :root {
     --c-dark: #212529;
-    --c-brand: #9F2B68;  
+    --c-brand: #996515;  
     --c-brand-light: #6970dd;
     --c-brand-rgb: 78, 87, 212;
     --c-body: #727272;
@@ -95,7 +95,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial2.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial3.png);
     background-position: center;
     background-size: cover;
 }
@@ -107,7 +107,7 @@ img {
 
 .shade-of-pink{
 
-    color: #F2D2BD;
+    color: #996515;
         
       /*  #C8A2C8;
         
