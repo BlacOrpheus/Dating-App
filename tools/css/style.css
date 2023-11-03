@@ -95,7 +95,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial3.png);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -107,7 +107,9 @@ img {
 
 .shade-of-pink{
 
-    color: #C8A2C8;
+    color: #9F2B68;
+        
+      /*  #C8A2C8;
         
         /*#800022;
         
