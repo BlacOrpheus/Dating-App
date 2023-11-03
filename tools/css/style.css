@@ -95,7 +95,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial3.png);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.100), rgba(var(--c-brand-rgb), 0.100)), url(../images/interracial1.png);
     background-position: center;
     background-size: cover;
 }
@@ -109,12 +109,4 @@ img {
 
     color: #996515;
         
-      /*  #C8A2C8;
-        
-        /*#800022;
-        
-       /* #E0BFB8;
-/*         #fffacd; */
-/*         #F2D2BD */
-/*     #9F2B68 */
 }
