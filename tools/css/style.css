@@ -4,7 +4,7 @@
 /* VARIABLES */
 :root {
     --c-dark: #212529;
-    --c-brand: #8458B3;  
+    --c-brand: #161748;  
     --c-brand-light: #6970dd;
     --c-brand-rgb: 78, 87, 212;
     --c-body: #727272;
@@ -101,12 +101,12 @@ img {
 }
 
 .text-uppercase{
-    color: #a0d2eb;
+    color: #c89666;
 
 }
 
 .shade-of-pink{
 
-    color: #8458B3;
+    color: #161748;
         
 }
